@@ -1,1 +1,1 @@
-
+extraiga en mass:/ junto con el binario .elf
